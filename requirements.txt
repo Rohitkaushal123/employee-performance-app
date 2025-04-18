@@ -2,3 +2,5 @@ streamlit
 scikit-learn
 numpy
 pandas
+
+App live link : https://employee-performance-app-lucsstrxhwdywjprprpamq.streamlit.app/
