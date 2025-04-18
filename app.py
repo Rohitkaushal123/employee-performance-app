@@ -3,7 +3,8 @@ import pickle
 import numpy as np
 
 
-model = pickle.load(open(r'D:\Data science Course\My projects\Employee_Performance_Dataset\model.pkl', 'rb'))
+model = pickle.load(open('model.pkl', 'rb'))
+
 
 
 age = st.number_input('Age', 18,65,30)
